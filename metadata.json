@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FoodieVision AI ",
+  "description": "An intelligent food recognition and recipe suggestion app powered by Gemini. Capture or upload photos of ingredients to get instant recipe ideas based on what you have.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
